@@ -23,8 +23,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://alliedbits.com/files/abcalc-1.6.0-linux-x86_64.tar.gz",
-          "sha256": "dbad2a24d3a41f92290bced55016d9724dcf3da4a4c34af213f130ee476c9cca",
+          "url": "https://alliedbits.com/files/abcalc-1.6.1-linux-x86_64.tar.gz",
+          "sha256": "e3303794d2381923edf3be8ae9aa49bcb03d2e836c06c40089225cf1ce586fb8",
           "strip-components": 1,
           "only-arches": [
             "x86_64"
@@ -32,8 +32,8 @@
         },
         {
           "type": "archive",
-          "url": "https://alliedbits.com/files/abcalc-1.6.0-linux-aarch64.tar.gz",
-          "sha256": "6894d530435473ded1bcd9f41ac91f64c105b8c72f62e9d9f39e06b84e7b1b4f",
+          "url": "https://alliedbits.com/files/abcalc-1.6.1-linux-aarch64.tar.gz",
+          "sha256": "4ed4d17ff6ceabc8ca79e1f029695e1be264d69d40d51420ac443aa9922b8657",
           "strip-components": 1,
           "only-arches": [
             "aarch64"
